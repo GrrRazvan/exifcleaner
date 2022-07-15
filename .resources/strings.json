@@ -22,6 +22,7 @@
 		"ml": "ഫയലുകളൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല",
 		"cs": "Nejsou vybrány žádné soubory",
 		"vn": "Không có tập tin nào được chọn"
+		"ro": "Niciun fișier selectat"
 	},
 	"empty.subtitle": {
 		"en": "Drag and drop images, videos, or PDF files to automatically remove metadata.",
@@ -46,6 +47,7 @@
 		"ml": "മെറ്റാഡാറ്റ സ്വയമേവ നീക്കം ചെയ്യാൻ ചിത്രങ്ങൾ, വീഡിയോകൾ അല്ലെങ്കിൽ PDF ഫയലുകൾ വലിച്ചിടുക.",
 		"cs": "Přetáhněte sem fotografie, videa nebo soubory PDF a automaticky z nich odstraníte metadata.",
 		"vn": "Kéo và thả tập tin hình ảnh, video hoặc PDF để tự động xóa siêu dữ liệu."
+		"ro": "Trageți și plasați imagini, videoclipuri sau fișiere PDF pentru a elimina automat metadatele."
 	},
 
 	"table.header.filename": {
@@ -71,6 +73,7 @@
 		"ml": "തിരഞ്ഞെടുത്ത ഫയലുകൾ",
 		"cs": "Vybrané soubory",
 		"vn": "Những tập tin đã được chọn"
+		"ro": "Fișiere selectate"
 	},
 	"table.header.exif-before": {
 		"en": "# Exif Before",
@@ -95,6 +98,7 @@
 		"ml": "എക്സിഫ് മുമ്പ്",
 		"cs": "Exif předtím",
 		"vn": "#Trước Exif"
+		"ro": "# Exif Înainte"
 	},
 	"table.header.exif-after": {
 		"en": "# Exif After",
@@ -119,6 +123,7 @@
 		"ml": "എക്സിഫ് പിന്നീട്",
 		"cs": "Exif poté",
 		"vn": "#Sau Exif"
+		"ro": "# Exif După"
 	},
 
 	"contextmenu.copy": {
@@ -144,6 +149,7 @@
 		"ml": "പകർത്തുക",
 		"cs": "Kopírovat",
 		"vn": "Sao chép"
+		"ro": "Copiați"
 	},
 	"contextmenu.select-all": {
 		"en": "Select All",
@@ -168,6 +174,7 @@
 		"ml": "എല്ലാം തിരഞ്ഞെടുക്കൂ",
 		"cs": "Vybrat vše",
 		"vn": "Chọn tất cả"
+		"ro": "Selectați tot"
 	},
 
 	"menu.app.about": {
@@ -193,6 +200,7 @@
 		"ml": "കുറിച്ച്",
 		"cs": "O aplikaci ",
 		"vn": "Giới thiệu"
+		"ro": "Despre"
 	},
 	"menu.app.services": {
 		"en": "Services",
@@ -217,6 +225,7 @@
 		"ml": "സർവീസുകൾ",
 		"cs": "Služby",
 		"vn": "Dịch vụ"
+		"ro": "Servicii"
 	},
 	"menu.app.hide": {
 		"en": "Hide",
@@ -241,6 +250,7 @@
 		"ml": "മറയ്ക്കുക",
 		"cs": "Skrýt",
 		"vn": "Ẩn"
+		"ro": "Ascundeți"
 	},
 	"menu.app.hide-others": {
 		"en": "Hide Others",
@@ -265,6 +275,7 @@
 		"ml": "മറ്റ് ഇനങ്ങൾ മറയ്ക്കുക",
 		"cs": "Skrýt ostatní",
 		"vn": "Ẩn những tập tin khác"
+		"ro": "Ascundeți Altele"
 	},
 	"menu.app.show-all": {
 		"en": "Show All",
@@ -289,6 +300,7 @@
 		"ml": "എല്ലാം കാണിക്കൂ",
 		"cs": "Zobrazit vše",
 		"vn": "Hiện tất cả"
+		"ro": "Arată tot"
 	},
 	"menu.app.quit": {
 		"en": "Quit",
@@ -313,6 +325,7 @@
 		"ml": "അടയ്ക്കുക",
 		"cs": "Ukončit",
 		"vn": "Thoát"
+		"ro": "Închide"
 	},
 
 	"menu.file.name": {
@@ -338,6 +351,7 @@
 		"ml": "ഫയൽ",
 		"cs": "Soubor",
 		"vn": "Tập tin"
+		"ro": "Fișier"
 	},
 	"menu.file.open": {
 		"en": "Open",
@@ -362,6 +376,7 @@
 		"ml": "തുറക്കുക",
 		"cs": "Otevřít",
 		"vn": "Mở để chọn file"
+		"ro": "Deschide"
 	},
 	"menu.file.close": {
 		"en": "Close",
@@ -386,6 +401,7 @@
 		"ml": "അടയ്ക്കുക",
 		"cs": "Zavřít",
 		"vn": "Đóng"
+		"ro": "Închide"
 	},
 	"menu.file.quit": {
 		"en": "Quit",
@@ -410,6 +426,7 @@
 		"ml": "അടയ്ക്കുക",
 		"cs": "Ukončit",
 		"vn": "Thoát"
+		"ro": "Renunță"
 	},
 
 	"menu.edit.name": {
@@ -435,6 +452,7 @@
 		"ml": "തിരുത്തുക",
 		"cs": "Upravit",
 		"vn": "Chỉnh sửa"
+		"ro": "Editează"
 	},
 	"menu.edit.copy": {
 		"en": "Copy",
@@ -459,6 +477,7 @@
 		"ml": "പകർത്തുക",
 		"cs": "Kopírovat",
 		"vn": "Sao chép"
+		"ro": "Copiază"
 	},
 	"menu.edit.select-all": {
 		"en": "Select All",
@@ -483,6 +502,7 @@
 		"ml": "എല്ലാം തിരഞ്ഞെടുക്കൂ",
 		"cs": "Vybrat vše",
 		"vn": "Chọn tất cả"
+		"ro": "Selectează tot"
 	},
 	"menu.edit.speech": {
 		"en": "Speech",
@@ -507,6 +527,7 @@
 		"ml": "വാചകം",
 		"cs": "Řeč",
 		"vn": "Ngôn ngữ"
+		"ro": "Discurs"
 	},
 	"menu.edit.speech.start-speaking": {
 		"en": "Start Speaking",
@@ -531,6 +552,7 @@
 		"ml": "വാചകം തുടങ്ങുക",
 		"cs": "Začněte mluvit",
 		"vn": "Bắt đầu nói"
+		"ro": "Începere discurs"
 	},
 	"menu.edit.speech.stop-speaking": {
 		"en": "Stop Speaking",
@@ -555,6 +577,7 @@
 		"ml": "വാചകം നിർത്തുക",
 		"cs": "Přestaňte mluvit",
 		"vn": "Ngừng nói"
+		"ro": "Închidere discurs"
 	},
 
 	"menu.view.name": {
@@ -580,6 +603,7 @@
 		"ml": "ദൃശ്യത",
 		"cs": "Zobrazení",
 		"vn": "Xem thêm"
+		"ro": "Vizualizează"
 	},
 	"menu.view.toggle-dev-tools": {
 		"en": "Toggle Developer Tools",
@@ -604,6 +628,7 @@
 		"ml": "ഡെവലപ്പർ ടൂളുകൾ മാറ്റുക",
 		"cs": "Přepnout vývojářské nástroje",
 		"vn": "Bật/Tắt công cụ dành cho nhà phát triển"
+		"ro": "Comutați Instrumente pentru dezvoltatori"
 	},
 	"menu.view.zoom-reset": {
 		"en": "Actual Size",
@@ -628,6 +653,7 @@
 		"ml": "യഥാർത്ഥ വലുപ്പം",
 		"cs": "Výchozí velikost",
 		"vn": "Kích cỡ thực sự"
+		"ro": "Mărimea actuală"
 	},
 	"menu.view.zoom-in": {
 		"en": "Zoom In",
@@ -652,6 +678,7 @@
 		"ml": "വലുതാക്കുക",
 		"cs": "Přiblížit",
 		"vn": "Phóng to màn hình chính"
+		"ro": "Mărește"
 	},
 	"menu.view.zoom-out": {
 		"en": "Zoom Out",
@@ -676,6 +703,7 @@
 		"ml": "ചെറുതാക്കുക",
 		"cs": "Oddálit",
 		"vn": "Thu nhỏ màn hình chính"
+		"ro": "Micșorează"
 	},
 	"menu.view.toggle-full-screen": {
 		"en": "Toggle Full Screen",
@@ -700,6 +728,7 @@
 		"ml": "ഫുൾ സ്ക്രീൻ മാറ്റുക",
 		"cs": "Přepnout režim celé obrazovky",
 		"vn": "Toàn màn hình"
+		"ro": "Comutare la ecran complet"
 	},
 
 	"menu.window.name": {
@@ -725,6 +754,7 @@
 		"ml": "ജാലകം",
 		"cs": "Okno",
 		"vn": "Màn cửa sổ"
+		"ro": "Fereastră"
 	},
 	"menu.window.minimize-mac": {
 		"en": "Minimize",
@@ -749,6 +779,7 @@
 		"ml": "മിനിമൈസ്",
 		"cs": "Minimalizovat",
 		"vn": "Thu nhỏ"
+		"ro": "Minimizați"
 	},
 	"menu.window.minimize": {
 		"en": "Minimize",
@@ -773,6 +804,7 @@
 		"ml": "മിനിമൈസ്",
 		"cs": "Minimalizovat",
 		"vn": "Thu nhỏ"
+		"ro": "Minimizați"
 	},
 	"menu.window.zoom-mac": {
 		"en": "Zoom",
@@ -797,6 +829,7 @@
 		"ml": "സൂം ചെയ്യുക",
 		"cs": "Zvětšit",
 		"vn": "Phóng to"
+		"ro": "Zoom"
 	},
 	"menu.window.zoom": {
 		"en": "Zoom",
@@ -821,6 +854,7 @@
 		"ml": "സൂം ചെയ്യുക",
 		"cs": "Zvětšit",
 		"vn": "Phóng to"
+		"ro": "Zoom"
 	},
 	"menu.window.front": {
 		"en": "Bring All to Front",
@@ -845,6 +879,7 @@
 		"ml": "എല്ലാത്തിനെയും മുന്നിലേക്ക് കൊണ്ടുവരിക",
 		"cs": "Přesunout vše do popředí",
 		"vn": "Mang tất cả tập tin lên trước"
+		"ro": "Aduceți totul în față"
 	},
 	"menu.window.window": {
 		"en": "Window",
@@ -869,6 +904,7 @@
 		"ml": "വിന്ഡോ",
 		"cs": "Okno",
 		"vn": "Màn cửa sổ"
+		"ro": "Fereastră"
 	},
 	"menu.window.close": {
 		"en": "Close",
@@ -893,6 +929,7 @@
 		"ml": "അടയ്ക്കുക",
 		"cs": "Zavřít",
 		"vn": "Đóng"
+		"ro": "Închide"
 	},
 
 	"menu.help.name": {
@@ -918,6 +955,7 @@
 		"ml": "സഹായം",
 		"cs": "Pomoc",
 		"vn": "Hỗ trợ"
+		"ro": "Ajutor"
 	},
 	"menu.help.website": {
 		"en": "Website",
@@ -942,6 +980,7 @@
 		"ml": "വെബ്സൈറ്റ്",
 		"cs": "Webová stránka",
 		"vn": "Dịa chỉ web của chúng tôi"
+		"ro": "Website"
 	},
 	"menu.help.source-code": {
 		"en": "Source Code",
@@ -966,6 +1005,7 @@
 		"ml": "സോഴ്സ് കോഡ്",
 		"cs": "Zdrojový kód",
 		"vn": "Mã nguồn của Exif Cleaner"
+		"ro": "Cod sursă"
 	},
 	"menu.help.report-issue": {
 		"en": "Report an Issue",
@@ -990,6 +1030,7 @@
 		"ml": "ഒരു പ്രശ്നം രേഖപ്പെടുത്തുക",
 		"cs": "Nahlásit problém",
 		"vn": "Báo cáo lỗi"
+		"ro": "Raportează o problemă"
 	},
 	"menu.help.about": {
 		"en": "About ",
@@ -1014,6 +1055,7 @@
 		"ml": "കുറിച്ച്",
 		"cs": "O programu",
 		"vn": "Về phần mềm"
+		"ro": "Despre "
 	},
 
 	"aboutwindow:copyright": {
@@ -1039,6 +1081,7 @@
 		"ml": "പകർപ്പവകാശം",
 		"cs": "Autorská práva",
 		"vn": "Bản quyền"
+		"ro": "Drepturi de autor "
 	},
 
 	"usertasks:open-file.label": {
@@ -1062,6 +1105,7 @@
 		"ml": "ഫയലുകൾ തുറക്കുക",
 		"cs": "Otevřít soubory",
 		"vn": "Mở tập tin"
+		"ro": "Deschideți fișierele "
 	},
 	"usertasks:open-file.description": {
 		"en": "Remove metadata from selected files",
@@ -1084,5 +1128,6 @@
 		"ml": "തിരഞ്ഞെടുത്ത ഫയലുകളിൽ നിന്ന് മെറ്റാഡാറ്റ ഇല്ലാതാക്കുക",
 		"cs": "Odstranit metadata z vybraných souborů",
 		"vn": "Xóa siêu dữ liệu từ tập tin được chọn"
+		"ro": "Eliminați metadatele din fișierele selectate "
 	}
 }
